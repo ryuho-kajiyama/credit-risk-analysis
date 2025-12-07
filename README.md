@@ -17,10 +17,10 @@ The goal is to answer key questions related to loan risk, such as:
 This project reflects my backgroud as a **loan officer** and my developing skills in **data analytics.**
 
 ## 📊 2. Dataset
-**Source:** Kaggle – Credit Risk Dataset/
-**Data Size**/
-Original Size: 32,581 rows, 12 columns/
-Final Size: 32,409 rows, 12 columns/
+**Source:** Kaggle – Credit Risk Dataset 
+**Data Size** 
+Original Size: 32,581 rows, 12 columns 
+Final Size: 32,409 rows, 12 columns 
 
 **Target Variable:** Default (0 = no default, 1 = default)
 
