@@ -18,10 +18,9 @@ This project reflects my backgroud as a **loan officer** and my developing skill
 
 ## 📊 2. Dataset
 **Source:** Kaggle – Credit Risk Dataset\
-**Data Size** 
+**Data Size**\
 Original Size: 32,581 rows, 12 columns\
 Final Size: 32,409 rows, 12 columns 
-
 **Target Variable:** Default (0 = no default, 1 = default)
 
 Key features include:
