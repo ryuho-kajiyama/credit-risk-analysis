@@ -44,14 +44,13 @@ I explored several questions to understand risk drivers:
 - The lowest income group is the most likely to default.
 2. Do higher DTI ratios correlate with increased risk?
 - I divided the data into 3 groups: [0:0.3), [0.3:0.6), [0.6:1.0)
-- The higher DTI ratios are, the more people default.
+- Higher DTI ratios correlate with increased risk strongly. 
 3. Does home ownership status relate to default risk?
 - There are 4 categories: OWN, MORTGAGE, RENT, OTHER.
 - People in the RENT category and OTHER category are more likely to default than in other categories.
 4. How does age relate to default risk?
 -  I grouped the data by 3 age groups: [20:40), [40:60), [60:100).
 -  The oldest group are more likely to default than other groups.
--  However, the number of data in the category is wey less than other groups.
 
 ## 📈 5. Key Performance Indicators (KPIs)
 The dashboard hilights these KPIs:
@@ -73,7 +72,9 @@ The Final dashboard includes:
 ![Dashboard Preview 2]()
 
 ## 🧠 7. Insights
-
+- Lower income borrwers appear more valnerable.
+- People whose DTI are more than 0.3 are way more likely to default.
+- Renters tend to default more than homeowners.
 
 ## 🧰 8. Tools Used
 - Python (Pandas, NumPy)
