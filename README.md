@@ -67,8 +67,8 @@ The Final dashboard includes:
 #### ✔️ **Filters for deep exploration (Age Group, Loan Intent)**
 
 #### 📸 Dashboard Screenshots:
-![Dashboard Preview](dashoboard_1.png)
-![Dashboard Preview 2](dashoboard_2.png)
+![Dashboard Preview](dashboard_1.png)
+![Dashboard Preview 2](dashboard_2.png)
 
 ## 🧠 7. Insights
 - Lower income borrwers appear more valnerable.
