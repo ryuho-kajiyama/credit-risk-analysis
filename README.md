@@ -72,3 +72,24 @@ The Final dashboard includes:
 #### 📸 Dashboard Screenshots:
 ![Dashboard Preview]()
 ![Dashboard Preview 2]()
+
+## 🧠 7. Insights
+
+
+## 🧰 8. Tools Used
+- Python (Pandas, NumPy)
+- Looker Studio
+- Kaggle Notebook
+- GitHub
+
+## 🚀 9. How to Reproduce
+1. Download the dataset frome Kaggle
+2. Open the Jupyter/Kaggle notebook
+3. Run all cells generated the cleaned dataset
+4. Uproad into Looker Studio
+5. Rebuild the dashboard using the KPIs and charts
+
+## 📌 10. Next Steps
+- Build a predictive model for default risk
+- Add credit history features
+- Improve dashboard formatting
